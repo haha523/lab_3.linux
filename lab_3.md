@@ -2,7 +2,7 @@
 
 1\. Скачайте и установите VirtualBox:
 
-![image](https://github.com/haha523/lab_3.linux/blob/eb413558a19fa99f14d64e95878da6451d4f7ecb/png%20for%20lab%203/h%C3%ACnh%20c%E1%BB%A7a%20app.png).
+![image](https://github.com/haha523/lab_3.linux/blob/eb413558a19fa99f14d64e95878da6451d4f7ecb/png%20for%20lab%203/h%C3%ACnh%20c%E1%BB%A7a%20app.png)
 
 2\. Создание виртуальной машины A с Ubuntu:
 
@@ -10,7 +10,7 @@
 
 3\. Создание виртуальной машины B и C с Ubuntu:
 
-![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/giao%20di%E1%BB%87n%20c%E1%BA%A3%203%20m%C3%A1y.png).
+![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/giao%20di%E1%BB%87n%20c%E1%BA%A3%203%20m%C3%A1y.png)
 
 4\. Проверка доступа в интернет на:
 
@@ -20,15 +20,15 @@
 ping -c 4 google.com 
 ```
 
-⦁\. Машина А:
+⦁\ Машина А:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/th%E1%BB%AD%20m%E1%BA%A1ng%20m%C3%A1y%20A.png)
 
-⦁\. Машина B:
+⦁\ Машина B:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/th%E1%BB%AD%20m%E1%BA%A1ng%20m%C3%A1y%20B.png)
 
-⦁\. Машина C:
+⦁\ Машина C:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/th%E1%BB%AD%20m%E1%BA%A1ng%20m%C3%A1y%20C.png)
 
@@ -39,16 +39,16 @@ ping -c 4 google.com
 ifconfig
 ```
 
-⦁\. Машина А:
+⦁\ Машина А:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/ip%20m%C3%A1y%20A.png)
 
 
-⦁\. Машина B:
+⦁\ Машина B:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/ip%20m%C3%A1y%20B.png)
 
-⦁\. Машина C:
+⦁\ Машина C:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/ip%20m%C3%A1y%20C%20(a).png)
 
@@ -59,15 +59,15 @@ ifconfig
 ping -c 4 [IP_of_машины_]
 ```
 
-⦁\. На машины А:
+⦁\ На машины А:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20n%E1%BB%91i%20ip%20tr%C3%AAn%20m%C3%A1y%20A.png)
 
-⦁\. На машины B:
+⦁\ На машины B:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20n%E1%BB%91i%20ip%20tr%C3%AAn%20m%C3%A1y%20B.png)
 
-⦁\. На машины C:
+⦁\ На машины C:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20n%E1%BB%91i%20ip%20tr%C3%AAn%20m%C3%A1y%20C.png)
 
@@ -87,15 +87,15 @@ sudo iptables -A INPUT -s <<IP - адрес B>> -j DROP
 
 8\. Результат:
 
-⦁\. Машина А:
+⦁\ Машина А:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20qu%E1%BA%A3%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%C3%AAn%20m%C3%A1y%20A.png)
 
-⦁\. Машина B:
+⦁\ Машина B:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20qu%E1%BA%A3%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%C3%AAn%20m%C3%A1y%20B.png)
 
-⦁\. Машина C:
+⦁\ Машина C:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20qu%E1%BA%A3%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%C3%AAn%20m%C3%A1y%20C.png)
 
