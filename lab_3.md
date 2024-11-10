@@ -99,7 +99,7 @@ sudo iptables -A INPUT -s <<IP - адрес B>> -j DROP
 
 ![image](https://github.com/haha523/lab_3.linux/blob/d8e4d9d7ab8b79fab9d48707a8310e55ac5df978/png%20for%20lab%203/k%E1%BA%BFt%20qu%E1%BA%A3%20k%E1%BA%BFt%20n%E1%BB%91i%20tr%C3%AAn%20m%C3%A1y%20C.png)
 
-## Цель:
+Цель:
 
  
   ⦁  Проверка доступа в интернет на машины.
