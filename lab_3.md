@@ -1,6 +1,5 @@
 ## Лабораторная работа No3
 
-https://github.com/haha523/lab_3.linux/blob/bd37722378b1bc91dea6fa27470e7fbe92f1ef25/README.md
 
 1\. Скачайте и установите VirtualBox:
 
