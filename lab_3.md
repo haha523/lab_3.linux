@@ -1,6 +1,6 @@
 ## Лабораторная работа No3
 
-
+- [ ] [Задача 1 - Множество](https://github.com/haha523/lab_3.linux/blob/d874b1960dfbc96844691ff2125a55f7da472f17/README.md)
 1\. Скачайте и установите VirtualBox:
 
 ![image](https://github.com/haha523/lab_3.linux/blob/eb413558a19fa99f14d64e95878da6451d4f7ecb/png%20for%20lab%203/h%C3%ACnh%20c%E1%BB%A7a%20app.png)
